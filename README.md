@@ -19,7 +19,7 @@ $ npm install
 
 --if any error occurs delete package.json file and run $npm init-- and install the dependencies
 
-Step 3. Start Ganache
+# Step 3. Start Ganache
 Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
 
 # Step 4. Compile & Deploy Election Smart Contract
@@ -32,7 +32,19 @@ Unlock Metamask
 Connect metamask to your local Etherum blockchain provided by Ganache.
 Import an account provided by ganache.
 
-#Step 6. Run the Front End Application
+# Step 6. Run the Front End Application
 $ npm run dev 
 
 Visit this URL in your browser: http://localhost:3000
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
